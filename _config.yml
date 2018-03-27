@@ -24,8 +24,7 @@ production_url : http://trademindx.github.io.com/blog
 BASE_PATH : http://trademindx.com/blog
 twitter_username: trademindx
 github_username:  trademindx
-site:
-  google_analytics: "UA-112080053-1"
+google_analytics: "UA-112080053-1"
 
 # Build settings
 markdown: kramdown

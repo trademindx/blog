@@ -22,7 +22,7 @@ Let’s discuss each of these points in a bit more detail.
 
 What impacts the price of precious metals, currencies, cryptocurrencies, stocks? Some may think it’s the money invested, but this is not the case. It is driven by opinion! To be more precise, it is opinion and consensus.
 
-There’s an excellent post on Reddit which goes into more depth on opinion in the crypto space with almost 20K up-votes and its a punchy write up that is well worth a read!
+There’s an excellent post on [Reddit][reddit] which goes into more depth on opinion in the crypto space with almost 20K up-votes and its a punchy write up that is well worth a read!
 
 Since it is generally accepted, let’s just take it is as a baseline assumption for the purposes of discussion: opinion moves the market.
 
@@ -122,4 +122,5 @@ What do you think? Please share your thoughts, feedback or questions in the comm
 
 If you would like to find out more about the Trademindx project, then [head over to our homepage][trademindx].
 
+[reddit]:https://www.reddit.com/r/CryptoCurrency/comments/7vga1y/i_will_tell_you_exactly_what_is_going_on_here/
 [trademindx]: https://trademindx.com

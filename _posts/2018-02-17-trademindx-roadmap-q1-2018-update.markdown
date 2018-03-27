@@ -39,7 +39,7 @@ We aim to push out the TMX token and crowd sale smart contracts to the live Ethe
 
 During Q2 we will also be moving the technical aspects of the Trademindx platform forward and building it out. We hope you enjoyed this update and will join us on our journey.
 
-Please take a moment to connect with us on Twitter. Trademindx is going to start Tweeting soon too!
+Please take a moment to [connect with us on Twitter][twitter]. Trademindx is going to start Tweeting soon too!
 
 To your investing success,
 Trademindx Team
@@ -49,3 +49,5 @@ Trademindx Team
 Trademindx artificial intelligence crunches huge amounts of data and tells you which cryptocurrencies to invest in for maximum returns.
 
 You will need TMX tokens to gain access to Trademindx platform.
+
+[twitter]: https://twitter.com/trademindx

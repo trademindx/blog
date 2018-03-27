@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Trademindx - Artificial Intelligence for Cryptocurrency Trading
 email: info@trademindx.com
+tagline: Get the edge in cryptocurrency trading!
 description: >- # this means to ignore newlines until "baseurl:"
   Artificial intelligence to analyze cryptocurrency market sentiment and help maximize your returns.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
@@ -23,6 +24,8 @@ production_url : http://trademindx.github.io.com/blog
 BASE_PATH : http://trademindx.com/blog
 twitter_username: trademindx
 github_username:  trademindx
+site:
+  google_analytics: "UA-112080053-1"
 
 # Build settings
 markdown: kramdown

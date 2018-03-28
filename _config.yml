@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Trademindx - Artificial Intelligence for Cryptocurrency Trading
-email: info@trademindx.com
 tagline: Get the edge in cryptocurrency trading!
 description: >- # this means to ignore newlines until "baseurl:"
   Artificial intelligence to analyze cryptocurrency market sentiment and help maximize your returns.
@@ -22,6 +21,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://trademindx.com" # the base hostname & protocol for your site, e.g. http://example.com
 production_url : http://trademindx.github.io.com/blog
 BASE_PATH : http://trademindx.com/blog
+homepage: https://trademindx.com
 twitter_username: trademindx
 github_username:  trademindx
 google_analytics: "UA-112080053-1"

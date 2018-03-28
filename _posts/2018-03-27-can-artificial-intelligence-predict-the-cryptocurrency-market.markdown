@@ -72,7 +72,7 @@ Our AI can sense opinion!
 
 Market data sources providing volumes and price ticks are still relatively open in the cryptocurrency space with exchanges freely publishing near real-time or even real-time feeds, which is in direct contrast to mature forex and stock markets. So our market data sources are abundant.
 
-#### “In the midst of chaos, there is also opportunity” — Sun Tzu
+<blockquote>“In the midst of chaos, there is also opportunity” — Sun Tzu</blockquote>
 
 Furthermore, what makes the cryptocurrency market such an interesting domain to analyze, is the relative immaturity which leads to high volatility.
 
@@ -94,7 +94,7 @@ And we don’t just consider 24 hours as a back testing timeframe but many diffe
 
 For our models, we have decided to use Maximum Entropy (MaxEnt) modelling which has been shown to produce more accurate results than Naive Bayes. However, in the future models can be swapped out if others are deemed to be more accurate.
 
-#### entropy noun — lack of order or predictability; gradual decline into disorder
+<blockquote>entropy noun  —  lack of order or predictability; gradual decline into disorder</blockquote>
 
 Here is an extract from our whitepaper:
 

@@ -72,7 +72,7 @@ Our AI can sense opinion!
 
 Market data sources providing volumes and price ticks are still relatively open in the cryptocurrency space with exchanges freely publishing near real-time or even real-time feeds, which is in direct contrast to mature forex and stock markets. So our market data sources are abundant.
 
-<blockquote>“In the midst of chaos, there is also opportunity” — Sun Tzu</blockquote>
+<blockquote>“In the midst of chaos, there is also opportunity”  —  Sun Tzu</blockquote>
 
 Furthermore, what makes the cryptocurrency market such an interesting domain to analyze, is the relative immaturity which leads to high volatility.
 

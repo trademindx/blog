@@ -25,6 +25,7 @@ homepage: https://trademindx.com
 twitter_username: trademindx
 github_username:  trademindx
 google_analytics: "UA-112080053-1"
+comments: true
 
 # Build settings
 markdown: kramdown

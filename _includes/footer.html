@@ -3,6 +3,26 @@
 
   <div class="wrapper">
 
+    {% if page.layout != 'home' %}
+      {% if site.comments %}
+        <div id="disqus_thread"></div>
+          <script>
+          var disqus_config = function () {
+          this.page.url = 'https://trademindx.com/blog/';
+          this.page.identifier = '{{ page.url }}';
+          };
+          (function() {
+          var d = document, s = d.createElement('script');
+          s.src = 'https://trademindx.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+          })();
+          </script>
+
+          <br /><br />
+      {% endif %}
+    {% endif %}
+
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
@@ -35,3 +55,6 @@
   </div>
 
 </footer>
+
+<!-- floating share buttons -->
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a856b8dd6037b5e"></script>

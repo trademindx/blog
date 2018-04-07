@@ -8,6 +8,8 @@ tags: ['artificial intelligence', 'cryptocurrency', 'sentiment analysis', 'machi
 
 ## Decisions, Decisions...
 
+![Why We Decided Not To Run an ICO for TMX Tokens]({{ "/assets/why-we-decided-not-to-run-an-ico-for-tmx-tokens.jpg" | absolute_url }})
+
 We have decided to cancel the scheduled TMX token sale. The decision was not an easy one for us to make, but after careful consideration, we felt it was the right one. We understand some of you maybe disappointed, but hopefully after reading this article you will appreciate the rationale behind our decision and see that it is not all bad news! Read on!
 
 There are are number of key drivers which lead us to this decision. Firstly, the legal and regulatory landscape is looking [very uncertain][ico-uncertainty] for ICOs at this time. We felt that running an ICO would expose us to potential risks which would deviate our focus from our core pillars - technology and innovation. Alot of ICOs have been in the media for all the [wrong reasons][ico-opinion] recently, exerting additional pressure on the cryptocurrency community and increasing volatility.

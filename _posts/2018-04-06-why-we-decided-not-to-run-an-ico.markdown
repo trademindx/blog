@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Why We Decided Not To Run an ICO for TMX Tokens"
+title:  "Why We Decided Not To Run an ICO"
 date:   2018-04-06 17:03:56 +0100
 author: Alex
-tags: ['artificial intelligence', 'cryptocurrency', 'sentiment analysis', 'machine learning', 'tmx token', 'ico']
+tags: ['artificial intelligence', 'cryptocurrency', 'sentiment analysis', 'machine learning', 'token', 'ico']
 ---
 
 ## Decisions, Decisions...
 
-![Why We Decided Not To Run an ICO for TMX Tokens]({{ "/assets/why-we-decided-not-to-run-an-ico-for-tmx-tokens.jpg" | absolute_url }})
+![Why We Decided Not To Run an ICO]({{ "/assets/why-we-decided-not-to-run-an-ico.jpg" | absolute_url }})
 
-We have decided to cancel the scheduled TMX token sale. The decision was not an easy one for us to make, but after careful consideration, we felt it was the right one. We understand some of you maybe disappointed, but hopefully after reading this article you will appreciate the rationale behind our decision and see that it is not all bad news! Read on!
+We have decided to cancel the scheduled token sale. The decision was not an easy one for us to make, but after careful consideration, we felt it was the right one. We understand some of you maybe disappointed, but hopefully after reading this article you will appreciate the rationale behind our decision and see that it is not all bad news! Read on!
 
 There are are number of key drivers which lead us to this decision. Firstly, the legal and regulatory landscape is looking [very uncertain][ico-uncertainty] for ICOs at this time. We felt that running an ICO would expose us to potential risks which would deviate our focus from our core pillars - technology and innovation. Alot of ICOs have been in the media for all the [wrong reasons][ico-opinion] recently, exerting additional pressure on the cryptocurrency community and increasing volatility.
 
@@ -24,9 +24,9 @@ We have also been testing alternative artificial intelligence models and compari
 
 Overall, the artificial intelligence platform is starting to really take shape and we look forward to sharing more in the coming weeks.
 
-## But What About the TMX Token?
+## But What About the Token?
 
-It's not all doom and gloom! We still have a number of options open for the TMX token. We could always run a token sale at a later date, we could just airdrop TMX tokens to our loyal supporters and bootstrap the economy that way or we could simply scrap the TMX token altogether. On balance, the most likely outcome will be that we will airdrop TMX tokens without a crowd sale, but that will largely depend on how our community grows organically in the coming months.
+It's not all doom and gloom! We still have a number of options open for the token. We could always run a token sale at a later date, we could just airdrop tokens to our loyal supporters and bootstrap the economy that way or we could simply scrap the token altogether. On balance, the most likely outcome will be that we will airdrop tokens without a crowd sale, but that will largely depend on how our community grows organically in the coming months.
 
 Rest assured, we are continuing on with the Trademindx project and will release further details as they become available.
 

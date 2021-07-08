@@ -1,6 +1,6 @@
 # Trademindx blog
 
-Public Homepage - https://trademindx.com/blog
+Public Homepage - https://trademindx.github.io/blog
 
 Based jekyll.
 
